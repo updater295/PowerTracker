@@ -1,6 +1,6 @@
 # Coming Soon!
 
-This is a Pre-Alpha Version of my First Music Tracker.
+This is a Pre-Alpha Version of my First Music Tracker. It will Come to Earth!
 
 -CNXT Global-
 
