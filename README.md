@@ -1,6 +1,6 @@
 # Coming Soon!
 
-  ****ATTENTION****
+    ATTENTION! If Anyone Who are There, Please Compile This Source Code into the Windows X86 Portable Program with your Compiler!
 
 This is a Pre-Alpha Version of my First Music Tracker. It will Come to Earth!
 
